@@ -1,0 +1,4 @@
+[submodule "SECOS"]
+	path = SECOS
+	url = https://github.com/riedlma/SECOS
+	branch = master
