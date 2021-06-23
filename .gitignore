@@ -141,3 +141,5 @@ cython_debug/
 
 /sparql_insert_log.txt
 .idea/
+
+resources

@@ -2,3 +2,7 @@
 	path = SECOS
 	url = https://github.com/riedlma/SECOS
 	branch = master
+[submodule "fasttext-flask-server"]
+	path = fasttext-flask-server
+	url = https://github.com/daniellobrunello/fasttext-flask-server
+	branch = main
